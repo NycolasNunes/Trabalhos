@@ -41,6 +41,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/spinmaster/middleware" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588598246699</updated>
-      <workItem from="1588598249974" duration="3028000" />
+      <workItem from="1588598249974" duration="3151000" />
+      <workItem from="1588771053200" duration="34000" />
     </task>
     <servers />
   </component>
@@ -69,6 +71,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="89" y="7" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588599663077">
@@ -79,10 +82,10 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="397" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1304.768@0.0.1304.768" timestamp="1588598390852" />
-    <state x="432" y="138" key="FileChooserDialogImpl" timestamp="1588599344662">
+    <state x="432" y="138" key="FileChooserDialogImpl" timestamp="1588771077491">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="432" y="138" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1588599344662" />
+    <state x="432" y="138" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1588771077491" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1588599209833">
       <screen x="0" y="0" width="1304" height="768" />
     </state>

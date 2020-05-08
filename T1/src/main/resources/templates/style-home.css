@@ -1,0 +1,114 @@
+.header-section {
+    height: 89px;
+    border-radius: 25px;
+    background: #1d1d1d;
+    position: relative;
+    padding: 15px;
+    margin-bottom: auto;
+}
+
+.header {
+}
+
+.container {
+}
+
+.navbar {
+}
+
+.navbar-default {
+}
+
+.navbar-header {
+}
+
+.logo {
+    padding-bottom: 10px;
+    float: left;
+    padding-left: 30px;
+}
+
+.navbar-brand {
+    float: left;
+}
+
+.menu-principal-container {
+    float: right;
+    width: 510px;
+    height: 60px;
+    padding-top: 14px;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+    position: relative;
+    line-height: 21px;
+    text-align: left;
+}
+ul li a{
+    display: block;
+    padding: 8px 25px;
+    text-decoration: none;
+}
+
+ul li ul.dropdown{
+    background: #3e3028;
+    display: none;
+    position: absolute;
+    z-index: 999;
+    left: 0;
+    border-radius: 15px;
+}
+
+.header-menu-item:hover{
+    color: orange;
+}
+
+ul li:hover ul.dropdown{
+    display: block;	/* Display the dropdown */
+}
+ul li ul.dropdown li{
+    display: block;
+}
+
+.header-menu-item {
+    color: white;
+    font-family: "Microsoft Himalaya";
+    font-size: x-large;
+    transition-property: color;
+    transition: 1s;
+}
+
+.menu-item {
+    color: white;
+    font-family: "Microsoft Himalaya";
+}
+
+#menu-barbearia {
+    width: 110%;
+}
+
+#menu-servicos {
+    width: 120px;
+}
+
+
+.titulo {
+    float: inside;
+    display: inline;
+    color: darkorange;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+#titulo {
+}
+
+#barbeiro-foto {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}

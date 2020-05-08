@@ -3,16 +3,14 @@ package nunes.nycolas.t1.projeto1.controle;
 import nunes.nycolas.t1.projeto1.modelo.Cortes;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.io.*;
+import java.net.URL;
 import java.util.ArrayList;
 
 
 @RestController
-public class ControlaCortes {
-
-    @GetMapping("/")
-    public String index(){
-        return "Bem vindo à Barbearia do Nyco";
-    }
+public class PegaInfo {
 
     @GetMapping("/entrada")
     public String getCorte() {
